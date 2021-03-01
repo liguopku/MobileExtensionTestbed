@@ -1,0 +1,22 @@
+{
+  "name": "MobileExtensionTestbed",
+  "version": "0.1.0",
+  "summary": "A short description of MobileExtensionTestbed.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liguopku/MobileExtensionTestbed",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liguopku": "guo.li@salesforce.com"
+  },
+  "source": {
+    "git": "https://github.com/liguopku/MobileExtensionTestbed.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MobileExtensionTestbed/Classes/**/*"
+}

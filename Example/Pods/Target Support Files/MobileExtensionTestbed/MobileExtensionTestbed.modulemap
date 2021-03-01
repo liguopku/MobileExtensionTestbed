@@ -1,0 +1,6 @@
+framework module MobileExtensionTestbed {
+  umbrella header "MobileExtensionTestbed-umbrella.h"
+
+  export *
+  module * { export * }
+}
